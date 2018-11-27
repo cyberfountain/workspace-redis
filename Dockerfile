@@ -1,4 +1,4 @@
-FROM redis:4.0.9-alpine
+FROM redis:5.0.1-alpine
 
 LABEL maintainer="cyberfountain"
 
